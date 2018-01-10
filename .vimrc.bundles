@@ -52,7 +52,7 @@
 " Bundles {
 
     " Deps {
-        Plugin 'VundleVim/Vundle.vim'
+        Plugin 'diraol/Vundle.vim'
         Plugin 'MarcWeber/vim-addon-mw-utils'
         Plugin 'tomtom/tlib_vim'
         if executable('ag')
